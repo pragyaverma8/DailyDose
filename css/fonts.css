@@ -1,0 +1,29 @@
+/* Font-family Montserrat */
+@font-face{
+    font-family: "Montserrat";
+    src: url('../fonts/Montserrat/Montserrat-VariableFont_wght.ttf');
+}
+
+/* Font-family Anton */
+@font-face{
+    font-family: "Anton";
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+/* Font-family Josefin */
+@font-face{
+    font-family: "Josefin";
+    src: url('../fonts/Josefin_Sans/JosefinSans-Regular.ttf');
+}
+
+/* Font-family Lexend */
+@font-face{
+    font-family: "Lexend";
+    src: url('../fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+/* Font-family Livvic */
+@font-face{
+    font-family: "Livvic";
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
